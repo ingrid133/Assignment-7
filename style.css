@@ -1,0 +1,38 @@
+
+h1, h2 {
+  color: hotpink;
+}
+
+p {
+  color: darkred;
+}
+
+ul {
+  border: 3cap solid hotpink;
+}
+
+ol {
+  border: 3cap solid honeydew;
+}
+
+ol, ul {
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+strong {
+  color: purple;
+}
+
+em {
+  color: darkcyan;
+}
+
+dt {
+  color: darkcyan;
+  font-weight: bolder;
+}
+
+dd {
+  color: darkorange;
+}
